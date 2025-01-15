@@ -32,4 +32,4 @@ To get started with **NoteGenie** on your local machine, follow these steps:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/ankit-gusain/note-genie.git
+git clone  https://github.com/ankit-gusain/NoteGenie.git
