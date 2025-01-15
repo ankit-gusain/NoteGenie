@@ -1,9 +1,8 @@
 {
-  "name": "travel-plan",
+  "name": "note-genie",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
-  "homepage": "https://ankit-gusain.github.io/note-genie",
+  "type": "module", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
